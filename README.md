@@ -102,6 +102,7 @@ location: `*📍 LOCALIZAÇÃO DELETADA*
 
 
 ## 📊 **Exemplo de Notificação**
+```
 🗑 MENSAGEM DELETADA
 👤 Rei Ayanam
 
@@ -119,6 +120,7 @@ location: `*📍 LOCALIZAÇÃO DELETADA*
 
 📝 DESCRIÇÃO
 > teste
+```
 
 ## 📈 **Performance**
 
