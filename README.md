@@ -35,11 +35,26 @@
 ## 🚀 **Instalação**
 
 ### Pré-requisitos
-- Node.js 16.0.0 ou superior
+- Node.js 18x ou superior
 - NPM ou Yarn
 
 ### Dependências
 - npm install baileys@v6.7.18 sqlite3 moment-timezone axios zlib events
+
+### Integração com Iris Bot
+- Se você está usando o [Iris Bot](https://github.com/KillovSky/iris):
+```
+cd seu-projeto-iris/lib/Functions/Listener/
+
+# Cole os arquivos do Anti-Delete v2 aqui:
+
+# - index.js (renomeie se necessário) ⚠
+
+# - antiDeleteEventManager.js
+
+# - deletev2.js
+
+```
 
 ### Configuração Básica
 1. Clone o repositório:
@@ -87,7 +102,6 @@ location: `*📍 LOCALIZAÇÃO DELETADA*
 
 
 ## 📊 **Exemplo de Notificação**
-```javascript
 🗑 MENSAGEM DELETADA
 👤 Rei Ayanam
 
@@ -105,7 +119,6 @@ location: `*📍 LOCALIZAÇÃO DELETADA*
 
 📝 DESCRIÇÃO
 > teste
-```
 
 ## 📈 **Performance**
 
